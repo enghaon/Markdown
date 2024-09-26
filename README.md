@@ -17,6 +17,7 @@ Official Website: [daringfireball.net](https://daringfireball.net/projects/markd
 - [Obsidian](https://obsidian.md/)
 - [QOwnNotes](https://www.qownnotes.org/)
 - [VSCode](https://code.visualstudio.com/)
+- [StackEdit](https://stackedit.io/)
 - [Typora](https://typora.io/)
 - [Ulysses](https://ulysses.app/)
 - [Zed](https://zed.dev/)
