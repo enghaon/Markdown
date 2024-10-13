@@ -23,6 +23,8 @@ This is **another** *hello world*.
 
 $x = \frac{1}{2} + 3$
 
+$$\mu = \sum_{i=0}^{N} \frac{x_i}{N}$$
+
 ## Code
 
 ```python
@@ -36,6 +38,16 @@ print("Hello World")
 | 1        | X        |
 | 2        | Y        |
 | 3        | Z        |
+
+Please, check Table /ref{example_table}.
+
+| Index | Name |
+| ----- | ---- |
+| 0     | AAA  |
+| 1     | BBB  |
+| ...   | ...  |
+
+Table: This is an example table.\label{example_table}
 
 ## Footnotes
 
